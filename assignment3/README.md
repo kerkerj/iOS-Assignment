@@ -5,9 +5,6 @@
 - iOS 7 ~ 8  Simulator
 - Mac OSX 10.9 ~ 10.10
 
-### 資料
-
-
 ### 功能
 1. 寫一個UITableView，並且中間穿插黑白兩色
 2. 點擊cell後push至detail頁面
