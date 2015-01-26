@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D5CE58AB-D50B-415B-9553-AEC8A44CAE90</string>
+	<key>IDESourceControlProjectName</key>
+	<string>iOS-Assignments</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5D35CD93053CC49C91EC35E4BD39DA5A51B15CE6</key>
+		<string>github.com:kerkerj/iOS-Assignment.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>iOS-Assignments/iOS-Assignments.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5D35CD93053CC49C91EC35E4BD39DA5A51B15CE6</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:kerkerj/iOS-Assignment.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5D35CD93053CC49C91EC35E4BD39DA5A51B15CE6</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5D35CD93053CC49C91EC35E4BD39DA5A51B15CE6</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iOS-Assignment</string>
+		</dict>
+	</array>
+</dict>
+</plist>
