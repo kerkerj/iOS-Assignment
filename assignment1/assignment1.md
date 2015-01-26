@@ -7,7 +7,7 @@
 
 ###資料
 - API位置:  
-`http://www.indexbricks.com/data/get_update.php?function_code=Intro&store=livebricks&version=0&language=TW`
+`http://*********/data/get_update.php?function_code=Intro&store=livebricks&version=0&language=TW`
 - JSON格式
 - image資料:  
 image_url

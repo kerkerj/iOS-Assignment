@@ -8,7 +8,7 @@
 
 ###資料
 - API位置:  
-`http://www.indexbricks.com/data/get_update.php?function_code=Profile&store=livebricks&version=0&language=TW`
+`http://*********/data/get_update.php?function_code=Profile&store=livebricks&version=0&language=TW`
 - JSON格式
 - catalog資料:
 category_description
